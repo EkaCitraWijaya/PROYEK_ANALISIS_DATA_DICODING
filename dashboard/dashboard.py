@@ -11,7 +11,7 @@ import plotly.express as px
 sns.set(style='dark')
 
 # Menyiapkan data day_df
-df_day = pd.read_csv("D:/FIle Pribadi/Kuliah/Dicoding/Proyek Analisis Data/test/day.csv") #sesuaikan dengan lokasi penyimpanan file anda
+df_day = pd.read_csv("dashboard/day.csv") #sesuaikan dengan lokasi penyimpanan file anda
 df_day.head()
 
 
