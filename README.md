@@ -15,7 +15,7 @@ pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
 5. lihat hasil running code tersebut
 
 ### menjalankan file `dashboard/dashboard.py`
-Saya sudah mengupload dashboard saya di streamlitcloud, bisa diakses dengan men-klik/mengunjungi link berikut (https://dashboardpy-kzrjxwp7gsbychxyropaxn.streamlit.app/), berikut adalah langkah jika ingin menjalankan sendiri dashboard.py tersebut.
+Saya sudah mengupload dashboard saya di streamlitcloud, bisa diakses dengan men-klik/mengunjungi link berikut (https://dashboardpy-pjtnst9dqftuvwzg94mgda.streamlit.app/), berikut adalah langkah jika ingin menjalankan sendiri dashboard.py tersebut.
 
 1. download file dashboard.py dalam folder dashbord.
 2. install streamlit menggunakan command prompt/powershell menggunakan perintah `pip install streamlit`. Install library yg dibutuhkan seperti pandas, numpy, matplotlib, seaborn dan streamlit
