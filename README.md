@@ -23,4 +23,12 @@ Saya sudah mengupload dashboard saya di streamlitcloud, bisa diakses dengan men-
 
 
 ## 4. Screenshots
+![alt text](https://github.com/EkaCitraWijaya/PROYEK_ANALISIS_DATA_DICODING/blob/master/Scrennshot/ss1.png?raw=true)
 
+![alt text](https://github.com/EkaCitraWijaya/PROYEK_ANALISIS_DATA_DICODING/blob/master/Scrennshot/ss2.png?raw=true)
+
+![alt text](https://github.com/EkaCitraWijaya/PROYEK_ANALISIS_DATA_DICODING/blob/master/Scrennshot/ss3.png?raw=true)
+
+![alt text](https://github.com/EkaCitraWijaya/PROYEK_ANALISIS_DATA_DICODING/blob/master/Scrennshot/ss4.png?raw=true)
+
+![alt text](https://github.com/EkaCitraWijaya/PROYEK_ANALISIS_DATA_DICODING/blob/master/Scrennshot/ss5.png?raw=true)
