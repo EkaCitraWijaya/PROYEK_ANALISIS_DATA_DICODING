@@ -20,3 +20,7 @@ Saya sudah mengupload dashboard saya di streamlitcloud, bisa diakses dengan men-
 1. download file dashboard.py dalam folder dashbord.
 2. install streamlit menggunakan command prompt/powershell menggunakan perintah `pip install streamlit`. Install library yg dibutuhkan seperti pandas, numpy, matplotlib, seaborn dan streamlit
 3. Buka Vscode anda dan jalankan file dengn menulis perintah berikut pada terminal `streamlit run dashboard.py`.
+
+
+## 4. Screenshots
+
