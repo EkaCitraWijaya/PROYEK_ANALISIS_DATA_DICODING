@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import streamlit as st
 import os
-import plotly.express as px
+
 
 # Set style seaborn
 sns.set(style='dark')
