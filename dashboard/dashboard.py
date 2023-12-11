@@ -11,7 +11,7 @@ import os
 sns.set(style='dark')
 
 # Menyiapkan data day_df
-df_day = pd.read_csv("dashboard/day.csv") #sesuaikan dengan lokasi penyimpanan file anda
+df_day = pd.read_csv("https://raw.githubusercontent.com/EkaCitraWijaya/PROYEK_ANALISIS_DATA_DICODING/master/dashboard/day.csv") #sesuaikan dengan lokasi penyimpanan file anda
 df_day.head()
 
 
